@@ -1,3 +1,3 @@
 # test-sub-package
 
-To EZ
+To EZ 2
