@@ -1,0 +1,3 @@
+[submodule "apps/test-sub-app"]
+	path = apps/test-sub-app
+	url = https://github.com/brightsidedeveloper/test-sub-app
